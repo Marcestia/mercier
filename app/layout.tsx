@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Marc Mercier Reception | Traiteur de mariage",
+  title: "Mercier Reception | Traiteur de mariage",
   description:
     "Page d'accueil d'un site vitrine pour traiteur de mariage : savoir-faire, menus, galerie photos et demande de devis."
 };

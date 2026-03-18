@@ -26,7 +26,7 @@ export default function HomePage() {
         <a className="brand" href="#top" aria-label="Retour a l'accueil">
           <span className="brand__mark">MM</span>
           <span className="brand__text">
-            <strong>Marc Mercier</strong>
+            <strong>Mercier Reception</strong>
             <span>Reception mariage</span>
           </span>
         </a>
@@ -292,7 +292,7 @@ export default function HomePage() {
       </main>
 
       <footer className="site-footer">
-        <p>Marc Mercier Reception</p>
+        <p>Mercier Reception</p>
         <p>Site vitrine de demonstration pour traiteur de mariage</p>
       </footer>
     </div>
